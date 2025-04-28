@@ -1,1 +1,2 @@
 Engenharia de Software 2
+Aula Importantissima para aprender a usar o git/github de forma coletiva
